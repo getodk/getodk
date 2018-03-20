@@ -22,3 +22,4 @@ Thanks for these organizations for generously donating their software to the ODK
 * [CircleCI](https://sentry.io) for their continuous integration and delivery tools
 * [YourKit](https://www.yourkit.com) for their full-featured Java memory profiler, [YourKit Java Profiler](https://www.yourkit.com/java/profiler)
 * [Sentry](https://sentry.io) for their open-source error tracking tools
+* [Qloudstat](https://qloudstat.com) for analytics & monitoring of logs in AWS
